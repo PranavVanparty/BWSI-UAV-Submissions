@@ -1,4 +1,8 @@
 # Setting up Pi 5 camera with ROS2
+- On your pi apt install the following dependencies:
+```
+sudo apt install libavdevice-dev libepoxy-dev
+```
 - https://github.com/TanmayChhatbar/ros2_car/blob/feature/camera_setup/README_ELI5.md
   
 # Additional resources
